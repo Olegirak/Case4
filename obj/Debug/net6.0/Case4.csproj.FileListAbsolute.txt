@@ -1,0 +1,15 @@
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.csproj.AssemblyReference.cache
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.AssemblyInfoInputs.cache
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.AssemblyInfo.cs
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case4\bin\Debug\net6.0\Case4.exe
+C:\Geekbrain\Case4\bin\Debug\net6.0\Case4.deps.json
+C:\Geekbrain\Case4\bin\Debug\net6.0\Case4.runtimeconfig.json
+C:\Geekbrain\Case4\bin\Debug\net6.0\Case4.dll
+C:\Geekbrain\Case4\bin\Debug\net6.0\Case4.pdb
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.dll
+C:\Geekbrain\Case4\obj\Debug\net6.0\refint\Case4.dll
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.pdb
+C:\Geekbrain\Case4\obj\Debug\net6.0\Case4.genruntimeconfig.cache
+C:\Geekbrain\Case4\obj\Debug\net6.0\ref\Case4.dll
